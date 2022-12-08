@@ -1,12 +1,16 @@
 #include <stdio.h>
 
+
+
 /**
  *
- *  * main - main function
+ *  * main - Entry point
  *
- *   * Return: Always 0.
+ *   *
  *
- *   */
+ *    * Return: Always 0 (Success)
+ *
+ *     */
 
 int main(void)
 
